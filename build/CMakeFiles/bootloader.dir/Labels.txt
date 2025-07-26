@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/agusfarhan/esp/esp32_deauth/build/CMakeFiles/bootloader
+/Users/agusfarhan/esp/esp32_deauth/build/CMakeFiles/bootloader.rule
+/Users/agusfarhan/esp/esp32_deauth/build/CMakeFiles/bootloader-complete.rule
+/Users/agusfarhan/esp/esp32_deauth/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/agusfarhan/esp/esp32_deauth/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/agusfarhan/esp/esp32_deauth/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/agusfarhan/esp/esp32_deauth/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/agusfarhan/esp/esp32_deauth/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/agusfarhan/esp/esp32_deauth/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/agusfarhan/esp/esp32_deauth/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
