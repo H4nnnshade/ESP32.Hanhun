@@ -1,2 +1,2 @@
-idf_component_register(SRCS "main.cpp" "esp32_deauth.c"
-                    INCLUDE_DIRS ".")
+idf_component_register(SRCS "main.c" "deauth.c" "evil_twin.c" "captive_portal.c"
+                       INCLUDE_DIRS ".")

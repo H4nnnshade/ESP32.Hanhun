@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "esp32_deauth",
-    "project_version":    "1",
+    "project_version":    "9050a33-dirty",
     "project_path":       "/Users/agusfarhan/esp/esp32_deauth",
     "idf_path":           "/Users/agusfarhan/esp/esp-idf",
     "build_dir":          "/Users/agusfarhan/esp/esp32_deauth/build",
